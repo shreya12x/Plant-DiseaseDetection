@@ -1,0 +1,6 @@
+# Plant-DiseaseDetection
+Agriculture plays a vital role in India’s economy. Over 60 percent of the rural households depend on agriculture as their principal means of livelihood. However, the farmers of India have been facing a lot of real time challenges like crop diseases. They are major threat to food security, but their immediate identification remains difficult in many places due to the lack of proper facilities.
+
+ However, increasing smartphone penetration along with advancement in computer vision that is made possible via deep learning, have paved the way for smartphone-assisted disease diagnosis. Using a public dataset of about 87K RGB images of healthy and diseased crop leaves which are categorized into 38 different classes under controlled conditions, we train a deep convolutional neural network to identify 14 crop species. The trained model achieves an accuracy between 90-99% on the testing dataset. 
+
+The MobileNetV2 architecture is compatible with mobile devices using the optimized parameter. The accuracy results in the identification of diseases showed that the deep CNN model is promising and can greatly impact the efficient identification of the diseases, and may have potential in the detection of diseases in real-time agricultural systems.
